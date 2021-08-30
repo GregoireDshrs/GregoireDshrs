@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GregoireDshrs
+- 👋 Hi, I’m Gregoire Deshairs
 -
 - 🌱 I’m currently learning engineering
 - 💞️ I’m looking to collaborate on ...
